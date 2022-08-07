@@ -1,0 +1,33 @@
+# Apuntes-JavaScript
+Apuntes - JavaScript
+
+- Sintaxis Base - Variables
+- Operaciones Numericas
+- Arreglos - Arrays
+- Inputs de Usuarios
+- Funciones
+- Bloques Condicionales (IF)
+- Operadores Comparativos
+- Bloques Switch
+- Objetos
+- Bucles (For - While)
+- Clases
+- Operadores Ternarios
+- Prototipos
+- Herencia
+- Callbacks
+- Recursion
+- Try-Catch
+- Destructuracion
+- Objeto Consola
+- Module Scripts
+- Import-Exports (ES6)
+- Modulos (CommonJS)
+- Bundlers (Webpack)
+- JS_Promise
+- Expresiones Regulares
+- Clausuras
+- Listas Enlazadas
+- Tablas HASH
+- Arboles Binarios
+- Web APIs
